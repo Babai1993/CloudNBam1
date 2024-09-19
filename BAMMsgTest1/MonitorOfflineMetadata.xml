@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="78f6549c-5b8a-444a-970e-5be20ba76d83">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Flow-1</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>Flow Data</Name>
+      </Step>
+      <Step>
+        <ID>2</ID>
+        <Name>BAM Utility</Name>
+      </Step>
+      <Step>
+        <ID>4</ID>
+        <Name>BAM Utility</Name>
+      </Step>
+      <Step>
+        <ID>5</ID>
+        <Name>BAM Utility</Name>
+      </Step>
+      <Step>
+        <ID>6</ID>
+        <Name>NOP</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>

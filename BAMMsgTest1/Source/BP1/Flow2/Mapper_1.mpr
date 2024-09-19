@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapperOrigin>DataMapperService</MapperOrigin>
+  <SourceSchemas />
+  <DestinationSchemas>
+    <Schema xsi:type="VariableSchema">
+      <SchemaID>1</SchemaID>
+      <Order>0</Order>
+      <Name>Variable_1</Name>
+      <Description />
+      <SchemaLocation>Destination</SchemaLocation>
+      <SchemaType>Variable</SchemaType>
+      <Fields>
+        <Field xsi:type="ComplexField">
+          <Identifier>1</Identifier>
+          <FieldName>Instance</FieldName>
+          <NodeType>Complex</NodeType>
+          <IsVirtual>false</IsVirtual>
+          <Color>210</Color>
+          <Condition>
+            <ExpectedType>L</ExpectedType>
+            <Direction>I</Direction>
+          </Condition>
+          <ReplicatedCount>0</ReplicatedCount>
+          <MaxInstance>0</MaxInstance>
+          <MultiUpdates />
+        </Field>
+        <Field xsi:type="FieldVariable">
+          <Identifier>a3b0b0ef-b24a-4c85-8d33-b2791a0ffd71</Identifier>
+          <FieldName>F.Name1</FieldName>
+          <NodeType>Simple</NodeType>
+          <IsVirtual>false</IsVirtual>
+          <Color>210</Color>
+          <Expression>
+            <ExpressionVal>MTIzNDU2Nw==</ExpressionVal>
+            <ExpectedType>N</ExpectedType>
+            <Direction>I</Direction>
+          </Expression>
+          <MagicFieldType>N</MagicFieldType>
+          <MagicPicture>N17</MagicPicture>
+          <isUnicode>false</isUnicode>
+          <ExternalFieldType>Numeric</ExternalFieldType>
+          <UserPicture>21</UserPicture>
+          <isNillable>false</isNillable>
+          <AlwaysUseCustomPicture>true</AlwaysUseCustomPicture>
+          <Encoding>99</Encoding>
+        </Field>
+      </Fields>
+      <Color>210</Color>
+      <Variables>
+        <Variables>
+          <Variable>
+            <VarGUID>a3b0b0ef-b24a-4c85-8d33-b2791a0ffd71</VarGUID>
+          </Variable>
+        </Variables>
+      </Variables>
+    </Schema>
+  </DestinationSchemas>
+  <Connections />
+  <ColorNames>
+    <MapperColorItem>
+      <Color>203</Color>
+      <ColorDescription>Blue</ColorDescription>
+    </MapperColorItem>
+    <MapperColorItem>
+      <Color>205</Color>
+      <ColorDescription>Green</ColorDescription>
+    </MapperColorItem>
+    <MapperColorItem>
+      <Color>206</Color>
+      <ColorDescription>Purple</ColorDescription>
+    </MapperColorItem>
+    <MapperColorItem>
+      <Color>204</Color>
+      <ColorDescription>Yellow</ColorDescription>
+    </MapperColorItem>
+    <MapperColorItem>
+      <Color>202</Color>
+      <ColorDescription>Red</ColorDescription>
+    </MapperColorItem>
+    <MapperColorItem>
+      <Color>210</Color>
+      <ColorDescription>Default</ColorDescription>
+    </MapperColorItem>
+  </ColorNames>
+</Mapper>

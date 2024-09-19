@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FlowVariables>
+  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <GUID>1083fe36-f6a6-4580-98cb-50915144fce1</GUID>
+    <ID>1</ID>
+    <Name>F.Name1</Name>
+    <Order>1</Order>
+    <IsNameIncompatible>false</IsNameIncompatible>
+    <Type>
+      <Type>A</Type>
+      <Picture>30</Picture>
+      <isUnicode>false</isUnicode>
+      <isNillable>false</isNillable>
+    </Type>
+    <DefaultValue>
+      <ExpectedType>A</ExpectedType>
+      <Direction>I</Direction>
+    </DefaultValue>
+    <isDeleted>false</isDeleted>
+    <IsSystemVariable>false</IsSystemVariable>
+  </Variable>
+  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <GUID>b3f08dd2-fded-49be-9e85-669ad0d52073</GUID>
+    <ID>2</ID>
+    <Name>F.Name2</Name>
+    <Order>2</Order>
+    <IsNameIncompatible>false</IsNameIncompatible>
+    <Type>
+      <Type>A</Type>
+      <Picture>30</Picture>
+      <isUnicode>false</isUnicode>
+      <isNillable>false</isNillable>
+    </Type>
+    <DefaultValue>
+      <ExpectedType>A</ExpectedType>
+      <Direction>I</Direction>
+    </DefaultValue>
+    <isDeleted>false</isDeleted>
+    <IsSystemVariable>false</IsSystemVariable>
+  </Variable>
+  <Variable d2p1:type="VariableRepositoryItem" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <GUID>62b7c2b5-ff37-4535-b7f9-af234a2e2e09</GUID>
+    <ID>3</ID>
+    <Name>F.Name3</Name>
+    <Order>3</Order>
+    <IsNameIncompatible>false</IsNameIncompatible>
+    <Type>
+      <Type>B</Type>
+      <Picture />
+      <isUnicode>false</isUnicode>
+      <isNillable>false</isNillable>
+    </Type>
+    <DefaultValue>
+      <ExpectedType>B</ExpectedType>
+      <Direction>I</Direction>
+    </DefaultValue>
+    <isDeleted>false</isDeleted>
+    <IsSystemVariable>false</IsSystemVariable>
+  </Variable>
+</FlowVariables>
